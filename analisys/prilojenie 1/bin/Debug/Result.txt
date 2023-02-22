@@ -1,0 +1,4 @@
+Inserted numbers is::10 25 36
+Max number is:36.00
+MIN number is:10.00
+Average number is:23.67
